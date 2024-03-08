@@ -1,0 +1,16 @@
+{
+  "name": "selenium10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^121.0.2",
+    "selenium-webdriver": "^4.18.1"
+  }
+}
