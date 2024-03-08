@@ -1,1 +1,1 @@
- Hibajegy id: 0 tesztId: 1 product: laptop datum: 2024-03-08T16:42:31.094Z Tesztelo: Liza 
+ Hibajegy id: 0 tesztId: 1 product: osztalyok datum: 2024-03-08T18:18:04.110Z Tesztelo: Liza 
